@@ -1,4 +1,4 @@
-import productsManager from "./data/ProductsManager.js";
+import productsManager from "./src/data/ProductsManager.js";
 
 async function router(requerimientos, respuesta) {
     const url = requerimientos.url
